@@ -46,7 +46,7 @@ and Kamil Wojcicki (2024). HTK MFCC MATLAB, Mathworks exchange <a href="https://
   <li>Navigate to the cloned directory:
     <pre><code>cd Mondragon_NatNeuro_CL</code></pre>
   </li>
-  <li> Download the data used for the [demo](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76): `dataset1/m1` and add it to your project's folder data/m1. </li>
+  <li> Download the data used for the <a href="https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76"> `dataset1/m1` </a> and add it to your project's folder data/m1. </li>
   <li> Add the project folder to your MATLAB path. You can do this in two ways:</li>
 
 <h5>Using the MATLAB Command Window</h5>
@@ -71,7 +71,7 @@ Typical install time:  10 min.
 
 ## 3 Description of Code's Functionality
 
-<br> &rarr;  Please refer to <b>Figure 4</b> of the [article](https://docs.github.com/fr/repositories/creating-and-managing-repositories/cloning-a-repository) as it provides a detailed schematic description of the code's workflow. The complete description can be found in the Methods section.
+<br> &rarr;  Please refer to <b>Figure 4</b> of the [article](https://github.com/LizbethMG/Mondragon_NatNeuro_CL) as it provides a detailed schematic description of the code's workflow. The complete description can be found in the Methods section.
 <br> &diams; For more detailed information, users can refer to the in-code comments within the script and its functions.
 The core functionality of the main script:
 ### INPUT 
