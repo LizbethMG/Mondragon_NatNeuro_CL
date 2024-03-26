@@ -118,18 +118,19 @@ Each sub-folder in the data set 1 corresponds to a single experiment. Each exper
 <div align="right">[ <a href="#readme-top">↑ Back to top ↑</a> ]</div>
 
 ## 5 Citation
-If you use this code or data, we kindly ask that you cite our paper. 
+If you use this code or data we kindly ask you to cite our work. 
 
-- Mondragón-González et al., 2024, Nature Neuroscience: [TODO: DOI here](https://github.com/LizbethMG/Mondragon_NatNeuro_CL)
+- <b> Data: </b>
+> (APA style) Mondragón-González, S. L. (2024, March 26). 2024_Mondragon-Gonzalez_NatureNeuroscience. https://doi.org/10.17605/OSF.IO/KDMJT
 
-Please check out the following references for more details:
-
-    @article{MMondragón-González2024,
+- <b> Article: </b> Mondragon et al 2024: [TODO: DOI here](https://github.com/LizbethMG/Mondragon_NatNeuro_CL)
+> @article{Mondragon2024,
         title = {Closed-loop recruitment of striatal interneurons prevents compulsive-like grooming behaviours},
         author = {Sirenia Lizbeth Mondragón-González and Christiane Schreiweis and Eric Burguière},
         journal = {Nature Neuroscience},
         year = {2024},
         url = { TODO }}
+
 
 <div align="right">[ <a href="#readme-top">↑ Back to top ↑</a> ]</div>
 
