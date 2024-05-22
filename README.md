@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 <br /> <!-- break -->
 <div align="center">  <!-- A block of content centred for the logo and description -->
-  <a href="https://github.com/LizbethMG/Mondragon_NatNeuro_CL">  <!-- CLickable logo; TODO: change to the article link -->
+  <a href="https://www.nature.com/articles/s41593-024-01633-3">  <!-- CLickable logo; TODO: change to the article link -->
     <img src="images/CL_logo.png" alt="Logo" width="80" height="100">
   </a>
 
@@ -13,7 +13,7 @@
     TriFilterNet utilizes a feature selection and supervised classification approach to process electrophysiological recordings, identifying pre-grooming events within ongoing behavior. The system employs a set of triangular filters to reduce the size of the feature set, yielding a matrix of decorrelated coefficients. Subsequently, a minimal-architecture artificial neural network is used to classify behavioral states and detect pre-grooming instances based on these coefficients.
     <br />
     <!-- TODO: change to the article link -->
-    <a href="https://github.com/LizbethMG/Mondragon_NatNeuro_CL"><strong> Link to article »</strong></a>
+    <a href="https://www.nature.com/articles/s41593-024-01633-3"><strong> Link to article »</strong></a>
     <br />
   </p>
 </div>
@@ -123,13 +123,13 @@ If you use this code or data we kindly ask you to cite our work.
 - <b> Data: </b>
 > (APA style) Mondragón-González, S. L. (2024, March 26). 2024_Mondragon-Gonzalez_NatureNeuroscience. https://doi.org/10.17605/OSF.IO/KDMJT
 
-- <b> Article: </b> Mondragon et al 2024: [TODO: DOI here](https://github.com/LizbethMG/Mondragon_NatNeuro_CL)
+- <b> Article: </b> Mondragon et al 2024: [DOI link](https://www.nature.com/articles/s41593-024-01633-3)
 > @article{Mondragon2024,
         title = {Closed-loop recruitment of striatal interneurons prevents compulsive-like grooming behaviours},
         author = {Sirenia Lizbeth Mondragón-González and Christiane Schreiweis and Eric Burguière},
         journal = {Nature Neuroscience},
         year = {2024},
-        url = { TODO }}
+        url = { https://www.nature.com/articles/s41593-024-01633-3 }}
 
 
 <div align="right">[ <a href="#readme-top">↑ Back to top ↑</a> ]</div>
